@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+.margin{
+    margin-top: 14px;
+}
+.container{
+
+}
+.row{
+
+}
+.qq{
+    border: 2px solid white;
+    line-height: 50px;
+    text-align: center;
+    height: 60px;
+
+}

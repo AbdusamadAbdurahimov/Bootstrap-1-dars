@@ -1,0 +1,9 @@
+.qq{
+    border: 4px solid whitesmoke;
+    border-radius: 5px;
+    background-color: #ff4b00;
+    color: whitesmoke;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+}
